@@ -1,0 +1,56 @@
+.onion{
+    height: 70px;
+    width: 70px;
+}
+#margin{
+    margin-left:100px;
+}
+.orange-bg{
+    background-color: antiquewhite;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: rgb(243, 120, 31);
+}
+.button{
+    background-image: linear-gradient(to bottom,#ff5859 0%,#ff136f);
+    border-radius:40px;
+    padding:9px 25px;
+    border:none;
+    color:white;
+    font-weight: 700;
+    cursor: pointer;
+}
+.cat1,.cat2,.cat3{
+    padding:10px 30px;
+    border-radius: 20px;
+}
+.cat1{
+    background-image: linear-gradient(yellow,orange 100%);
+}
+.cat2{
+    background-image: linear-gradient(#80489C,#432C7A);
+}
+.cat3{
+    background-image:linear-gradient(#4E6C50,#AA8B56,#F0EBCE);
+}
+.pip{
+    margin-top: 30px;
+    
+}
+.pip2 h1{
+    color:white;
+}
+.pip2 img{
+    width:100px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px royalblue;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
